@@ -18,7 +18,3 @@ Se encuentra resuleto en Ejercicio2.md
 ## Ejercicio 3 - Práctica
 
 Seguir los pasos de la descripción. Con más tiempo, podria mejorar la parte visual y añadir mas componentes para seguir ejemplificando como funciona la parte de autenticacion y rutas privadas.
-
-```
-
-```
