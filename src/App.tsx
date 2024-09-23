@@ -1,10 +1,10 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Navbar from "./components/ui/navbar";
+import Navbar from "./components/ui/Navbar";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 import { AuthProvider } from "./contexts/AuthContext";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import ProtectedRoute from "./components/auth/protected-route";
+import ProtectedRoute from "./components/auth/ProtectedRoute";
 
 const queryClinet = new QueryClient();
 
