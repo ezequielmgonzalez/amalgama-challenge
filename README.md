@@ -2,8 +2,8 @@
 
 ## Descripcion
 
-Solucion a los ejercicios propuestos en el challenge de Amalgama.
-Ejercicios 1 y 2 estaran respondidos en sus archivos correspondientes (Ejercicio1.md y Ejercicio2.md) y el ejercicio 3 se puede visualizar corriendo la app de este repo en local.
+Solución a los ejercicios propuestos en el challenge de Amalgama.
+Ejercicios 1 y 2 estarán respondidos en sus archivos correspondientes (Ejercicio1.md y Ejercicio2.md) y el ejercicio 3 se puede visualizar corriendo la app de este repo en local.
 
 Para esto ultimo, clonar el repo, añadir un .env.local siguiendo el .env.local.example y luego usar `npm run dev` y acceder desde el browser al (localhost)[http://localhost:5173/].
 
