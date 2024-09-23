@@ -2,7 +2,7 @@
 
 1.
 
-```
+```javascript
 import { create } from 'zustand'
 
 const BOOKS_API_URL = "https://api.org/books"
@@ -60,8 +60,8 @@ const books = useLibraryStore(state => state.books)
 
 2.
 
-```
-const globalState = {
+```json
+{
 	"books": [
 		{
 			"id": 1,
