@@ -15,7 +15,7 @@ En resumen, el problema más relevante es la poca componetizacion para dividr la
 
 2.
 
-```
+```javascript
 export const parseContactToDisplay = (contact) => {
 	if (!contact) return
 	const parsedContact = {
@@ -159,7 +159,7 @@ const ContactsScreen = ({ contacts, cities, states }) => {
 
 4. Considerando que no se uso un Layout:
 
-````
+````javascript
 const ContactProfileScreen = ({contact}) => {
 	const contactToDisplay = parseContactToDisplay(contact)
 	retrun (
